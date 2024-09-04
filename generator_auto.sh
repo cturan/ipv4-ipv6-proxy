@@ -1,9 +1,9 @@
 #!/bin/sh
 
-# centos 7.5
+# centos 9
 
 
-PROXYCOUNT=4500
+PROXYCOUNT=10000
 PROXYUSER="ipman"
 PROXYPASS="crystal"
 IP6PREFIXLEN=64
