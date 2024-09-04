@@ -2,7 +2,7 @@ Redirect connections from different ports at one ipv4 address to unique random i
 
 
 ## Requirements
-- Centos 7
+- Centos 9
 - Ipv6 \64
 
 ## Installation
